@@ -1,6 +1,5 @@
-// I'm manually including these globally atm
-// import AFRAME from 'aframe';
-// import 'aframe-physics-system';
+import AFRAME from 'aframe';
+import 'aframe-physics-system';
 
 let scene;
       

@@ -16,7 +16,6 @@ module.exports = {
       {
         test: /\.js$/,
         exclude: /(node_modules|build)/,
-        include: [path.resolve(__dirname, './src'), require.resolve('aframe-physics-system')],
         loader: 'babel-loader',
       },
     ],

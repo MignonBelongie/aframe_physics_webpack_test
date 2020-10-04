@@ -14,7 +14,7 @@
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "aframe": "^1.0.4",
-    "aframe-physics-system": "^4.0.1",
+    "aframe-physics-system": "github:n5ro/aframe-physics-system#eac2ac0e639e8863b3d1e983ac04a682281586aa",
     "babel-loader": "^8.1.0",
     "three": "^0.116.1",
     "webpack": "^4.43.0",
